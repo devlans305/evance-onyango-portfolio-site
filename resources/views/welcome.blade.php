@@ -9,8 +9,8 @@
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="https://img.icons8.com/fluency/48/bitcoin-exchange.png" rel="icon" type="image/png">
+  <link href="https://img.icons8.com/fluency/48/bitcoin-exchange.png" rel="apple-touch-icon" type="image/png">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -44,7 +44,7 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <i class="bi bi-currency-bitcoin"></i>
+         <img width="40" height="80" src="https://img.icons8.com/fluency/48/bitcoin-exchange.png" alt="bitcoin-exchange"/>
         <h1 class="sitename">mayaPay</h1>
       </a>
 
@@ -85,9 +85,10 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="100">
-            <h2><span>I'm </span><span class="underlight">Evance Onyango</span> a Professional<span> Software Engineer </span></h2>
+            <h2><span>I'm </span><span>Evance Onyango,</span> a Professional<span> Software Engineer </span></h2>
             <p>Focused on building Decentralized Applications for the Blockchain</p>
             <a href="contact.html" class="btn-get-started">Am Available for Hire<br></a>
+            <a href="#" class="btn-get-started">Send me ETH 😊<br></a>
           </div>
         </div>
       </div>
@@ -103,6 +104,7 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
+              <p>Solidity Programming</p>
               <img src="assets/img/gallery/gallery-1.jpg" class="img-fluid" alt="">
               <div class="gallery-links d-flex align-items-center justify-content-center">
                 <a href="assets/img/gallery/gallery-1.jpg" title="Gallery 1" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
@@ -113,7 +115,8 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
-              <img src="assets/img/gallery/gallery-2.jpg" class="img-fluid" alt="">
+            <p>React Framework</p>
+              <img src="https://elazizi.com/images/react-native-libraries.png" class="img-fluid" alt="">
               <div class="gallery-links d-flex align-items-center justify-content-center">
                 <a href="assets/img/gallery/gallery-2.jpg" title="Gallery 2" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
                 <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
@@ -123,6 +126,7 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
+            <p>Ethereum Main net</p>
               <img src="assets/img/gallery/gallery-3.jpg" class="img-fluid" alt="">
               <div class="gallery-links d-flex align-items-center justify-content-center">
                 <a href="assets/img/gallery/gallery-3.jpg" title="Gallery 3" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
@@ -133,15 +137,17 @@
 
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
-              <img src="assets/img/gallery/gallery-4.jpg" class="img-fluid" alt="">
+            <p>Solana</p>
+              <img src="assets/img/gallery/gallery-4.jpg" class="img-fluid" alt="" height="60%">
               <div class="gallery-links d-flex align-items-center justify-content-center">
                 <a href="assets/img/gallery/gallery-4.jpg" title="Gallery 4" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
                 <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div>
-          </div><!-- End Gallery Item -->
+          </div>
+          
 
-          <div class="col-xl-3 col-lg-4 col-md-6">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
               <img src="assets/img/gallery/gallery-5.jpg" class="img-fluid" alt="">
               <div class="gallery-links d-flex align-items-center justify-content-center">
@@ -149,7 +155,8 @@
                 <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div>
-          </div><!-- End Gallery Item -->
+          </div>
+        
 
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
@@ -159,7 +166,7 @@
                 <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div>
-          </div><!-- End Gallery Item -->
+          </div>
 
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
@@ -169,7 +176,7 @@
                 <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div>
-          </div><!-- End Gallery Item -->
+          </div>
 
           <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="gallery-item h-100">
@@ -179,7 +186,9 @@
                 <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div>
-          </div><!-- End Gallery Item -->
+          </div> -->
+
+          <!-- End Gallery Item -->
 
         </div>
 

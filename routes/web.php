@@ -1,6 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\EvanceController;
+
+Route::resource('evance', EvanceController::class);
+
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +20,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/about', [EvanceController::class, 'index']);
